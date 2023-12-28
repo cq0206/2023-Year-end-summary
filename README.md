@@ -8,3 +8,4 @@
 | 4 | 我的抓码人生《2023 年终总结 & 迎接 2024》 | https://liruifengv.com/posts/2023-year-end-summary/ |
 | 5 | 狼叔的2023总结简版 | https://twitter.com/i5ting/status/1739635026118287436 |
 | 6 | Hank的《再见，我的2023》 | https://zhaohongxuan.github.io/2023/12/27/2023-review/ |
+| 7 | Memo AI 的 2023 年终总结 | https://twitter.com/MemoAI_/status/1740221445031284792 |
